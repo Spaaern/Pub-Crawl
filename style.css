@@ -94,3 +94,30 @@ button:hover {
 #participants-list span {
   margin-right: 0.5rem;
 }
+
+.checkpoint h2 button {
+  margin-left: 0.2rem;
+  font-size: 1rem;
+}
+
+.checkpoint-controls {
+  margin-left: auto;
+  display: flex;
+  gap: 4px;
+}
+
+.checkpoint-controls button {
+  padding: 2px 8px;
+  font-size: 14px;
+}
+
+#scoreboard-section {
+  background: white;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+}
+#scoreboard div {
+  font-size: 1.1em;
+  margin: 0.25rem 0;
+}
